@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <li
+    data-testid="undefined"
+  >
+    <p />
+    <button
+      data-testid="undefinedRemove"
+      style="margin-left: 10px;"
+    >
+      X
+    </button>
+    <button
+      data-testid="undefinedEdit"
+      style="margin-left: 10px;"
+    >
+      Edit
+    </button>
+    <input
+      id="done"
+      type="checkbox"
+    />
+  </li>
+</DocumentFragment>
+`;
